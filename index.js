@@ -23,6 +23,7 @@ function sayHiToGrandma(string) {
     return `YES INDEED!`
   } 
   var mixedCase= "I love you, Grandma."
+  return "I love you, too."
 }
   
   
