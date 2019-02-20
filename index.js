@@ -22,7 +22,7 @@ function sayHiToGrandma(string) {
   if (string == string.toUpperCase()){
     return `YES INDEED!`
   } 
-  var mixedCase= 
+  var mixedCase= "I love you, Grandma."
 }
   
   
